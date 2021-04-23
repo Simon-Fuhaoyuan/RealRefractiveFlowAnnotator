@@ -1,0 +1,5 @@
+labelme
+opencv-python
+scipy==1.2.0
+imageio
+tqdm
